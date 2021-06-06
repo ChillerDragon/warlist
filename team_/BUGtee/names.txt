@@ -1,0 +1,5 @@
+BUG tee
+BUG TEE
+(1)BUG TEE
+TEE BUG
+
