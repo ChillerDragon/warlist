@@ -4,3 +4,8 @@ laser.noob
 # recco is laser alt
 ReccoTR.exe
 
+# afk block with ksksk and timepause
+Bendy
+
+nameless tee
+
