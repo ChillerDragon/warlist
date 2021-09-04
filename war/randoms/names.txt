@@ -13,3 +13,8 @@ nameless tee
 Dr.Mr.Milfniga
 MARC
 
+
+# too lazy to code clanprefix support
+x7|KistO
+x7|OstiK
+
