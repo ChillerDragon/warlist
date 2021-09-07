@@ -1,16 +1,7 @@
-Pro
-laser.pro
-laser.noob
-# recco is laser alt
-ReccoTR.exe
-
 # afk block with ksksk and timepause
 Bendy
 
 nameless tee
-
-Dr.Mr.Milfniga
-MARC
 
 # too lazy to code clanprefix support
 x7|KistO
@@ -19,4 +10,9 @@ x7|OstiK
 bob
 # lori blocked me to help bob
 Lori5106
+
+
+# wayblock and 420 helper
+# always attacks when there is opportuniy
+SeanyCheaterBff
 
