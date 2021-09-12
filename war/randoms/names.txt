@@ -8,8 +8,10 @@ x7|KistO
 x7|OstiK
 
 # lori blocked me to help bob
-Lori5106
+Lori5106A
 
+# wayblock block enemy help
+Isegrin
 
 # wayblock and 420 helper
 # always attacks when there is opportuniy
@@ -26,6 +28,8 @@ El patron
 
 Marc
 
+# spawnblocker (not today)
+Ver
 
 # randomly helped enemys
 Torento

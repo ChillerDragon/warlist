@@ -1,4 +1,3 @@
-Torento
 laser.pro
 laser.noob
 Recco.lase[R]
