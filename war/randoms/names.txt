@@ -1,5 +1,7 @@
 # afk block with ksksk and timepause
 Bendy
+# ksh helper
+yoshi
 
 nameless tee
 
@@ -24,6 +26,9 @@ benz
 (1)benz
 
 Marc
+
+# eager to attack when siding with 404
+Molot
 
 # spawnblocker (not today)
 Ver
