@@ -23,9 +23,6 @@ SeanyCheaterBff
 benz
 (1)benz
 
-# dog of zephir
-El patron
-
 Marc
 
 # spawnblocker (not today)
