@@ -15,9 +15,6 @@ Lori5106A
 # wayblock block enemy help
 Isegrin
 
-# helps zephir regularly
-ֆȶօʀʍ
-
 benz
 (1)benz
 
@@ -29,5 +26,4 @@ Molot
 # spawnblocker (not today)
 Ver
 Ver..
-
 
