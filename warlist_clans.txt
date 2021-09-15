@@ -6,7 +6,7 @@
 # FookinLads
 # \ЧՁθ/
 # camouflage
+# BlackListed
+# blacklisted
 TrRShClNrRs
 xSD7
-BlackListed
-blacklisted

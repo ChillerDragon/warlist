@@ -32,7 +32,6 @@ Molot
 
 # spawnblocker (not today)
 Ver
+Ver..
 
-# randomly helped enemys
-Torento
 
