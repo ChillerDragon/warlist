@@ -15,10 +15,6 @@ Lori5106A
 # wayblock block enemy help
 Isegrin
 
-# wayblock and 420 helper
-# always attacks when there is opportuniy
-SeanyCheaterBff
-
 # helps zephir regularly
 ֆȶօʀʍ
 
