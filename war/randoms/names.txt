@@ -3,11 +3,15 @@ Bendy
 # ksh helper
 yoshi
 Furtsu
+not Furtsu
 
 nameless tee
 
 # wayblock block enemy help
 Isegrin
+
+# fearless
+botch
 
 Marc
 
