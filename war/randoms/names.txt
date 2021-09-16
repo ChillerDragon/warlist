@@ -2,6 +2,7 @@
 Bendy
 # ksh helper
 yoshi
+Furtsu
 
 nameless tee
 
