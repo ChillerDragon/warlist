@@ -1,3 +1,4 @@
 koro
+peace
 Pokemon.*
 
