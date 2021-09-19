@@ -1,4 +1,5 @@
 koro
+Mr.koro
 peace
 Pokemon.*
 
