@@ -2,8 +2,6 @@
 Bendy
 # ksh helper
 yoshi
-Furtsu
-not Furtsu
 :)|(:
 koko
 
