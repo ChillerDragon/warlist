@@ -1,5 +1,7 @@
 BulgarianTee
+BulgarianTee2
 BulgarianDummy
+BulgarianDummy2
 BulgarianTee.
 BulgarianDummy.
 (1)BulgarianTee
