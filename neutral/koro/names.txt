@@ -2,4 +2,5 @@ koro
 Mr.koro
 peace
 Pokemon.*
+n1tr0
 
