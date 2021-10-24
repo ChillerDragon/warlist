@@ -20,3 +20,6 @@ Magic
 # koro helper
 lonely'
 
+# helps wassup attacks me
+kreax
+
