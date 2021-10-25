@@ -23,3 +23,5 @@ lonely'
 # helps wassup attacks me
 kreax
 
+# spawnblock
+Brezn
