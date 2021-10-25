@@ -2,4 +2,6 @@ Kezo
 KezoV2
 Tziys*
 ChillerKezo
+CoalaKezo
+CoalaKezoD
 

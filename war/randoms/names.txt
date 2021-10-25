@@ -25,3 +25,8 @@ kreax
 
 # spawnblock
 Brezn
+
+# find out who owns plot 10 till 31.10
+dont
+save
+
