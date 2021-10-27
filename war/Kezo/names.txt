@@ -3,5 +3,6 @@ KezoV2
 Tziys*
 ChillerKezo
 CoalaKezo
-CoalaKezoD
+CoalaKezo
+RaidDummyKezo
 
