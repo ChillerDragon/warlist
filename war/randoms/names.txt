@@ -36,3 +36,7 @@ toshiro
 # x7 dog
 cookie
 cook
+
+# helped enemy
+LimeLife
+
