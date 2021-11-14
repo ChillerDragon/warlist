@@ -40,3 +40,6 @@ cook
 # helped enemy
 LimeLife
 
+# koro helper
+Kong
+
