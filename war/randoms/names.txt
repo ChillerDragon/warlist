@@ -43,3 +43,11 @@ LimeLife
 # koro helper
 Kong
 
+# spawnblock
+niQ
+Garbage
+
+# spawnblock
+nameless tee
+Clown
+
