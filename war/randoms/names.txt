@@ -30,9 +30,6 @@ Brezn
 dont
 save
 
-# attacked me
-toshiro
-
 # x7 dog
 cookie
 cook
