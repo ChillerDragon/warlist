@@ -21,3 +21,6 @@ Pikachu
 # helps hakero
 Blade.
 
+# today (i rly need a ux today feature)
+Dangle Fruit
+
