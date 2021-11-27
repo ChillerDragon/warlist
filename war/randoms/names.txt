@@ -21,6 +21,3 @@ Pikachu
 # helps hakero
 Blade.
 
-# hooked me from farmile
-Bushido
-
