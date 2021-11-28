@@ -14,10 +14,3 @@ Garbage
 # spawnblock
 Clown
 
-# erro dogs (todo: is this koro?)
-Pikachu.
-Pikachu
-
-# helps hakero
-Blade.
-
