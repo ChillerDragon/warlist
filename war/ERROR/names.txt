@@ -60,8 +60,4 @@ lolo
 loxi
 Loxi
 [D] loxi
-nameless tee
-(1)nameless tee
-brainless tee
-(1)brainless tee
 
