@@ -14,3 +14,6 @@ Garbage
 # spawnblock
 Clown
 
+# remove from farmtile and no help
+.Ýāñķé
+
