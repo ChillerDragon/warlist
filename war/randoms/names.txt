@@ -15,14 +15,13 @@ Garbage
 Clown
 
 # remove from farmtile and no help
-.Ýāñķé
-
-ZewexX
-ZewexX+
-ShockWave`iPro
-Sweyez
-NiZe
-
 # attacks me
+.Ýāñķé
 .ÿāñķé
+
+# ZewexX
+# ZewexX+
+# ShockWave`iPro
+# Sweyez
+# NiZe
 
