@@ -21,9 +21,9 @@ Clown
 
 # ZewexX
 # ZewexX+
-ShockWave`iPro
-Sweyez
-NiZe
+# ShockWave`iPro
+# Sweyez
+# NiZe
 
 # spawnblocker
 ES
