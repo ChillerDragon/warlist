@@ -36,3 +36,8 @@ DraKen
 kúro
 ☣'khúrom'
 
+#helps godlike
+HUSO
+Umuji
+Saksori
+
