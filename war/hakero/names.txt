@@ -6,5 +6,7 @@ hakero0
 Hakero1!
 hakero1!
 hakero0!
+hakero0 ! $nK
+hakero_ 0 ! $nK
 LAFA
 
