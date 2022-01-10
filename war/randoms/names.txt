@@ -39,5 +39,6 @@ kúro
 #helps godlike
 HUSO
 Umuji
+Umuj
 Saksori
 
