@@ -1,7 +1,6 @@
 # afk block with ksksk and timepause
 Bendy
 # ksh helper
-yoshi
 :)|(:
 
 Marc
