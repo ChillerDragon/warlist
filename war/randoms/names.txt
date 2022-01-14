@@ -1,8 +1,8 @@
 # afk block with ksksk and timepause
-Bendy
-# ksh helper
-:)|(:
-Average
+# Bendy
+# # ksh helper
+# :)|(:
+# Average
 
 Marc
 
@@ -44,3 +44,5 @@ Saksori
 
 #attacked me
 dipar
+rapid
+
