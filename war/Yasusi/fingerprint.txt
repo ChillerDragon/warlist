@@ -3,3 +3,6 @@ bank 200k
 points 661
 kills 1000
 deaths 500
+
+intel from OwOTube:
+	not his acc and he is v3 player
