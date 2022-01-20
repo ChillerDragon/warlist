@@ -1,0 +1,5 @@
+level 32
+bank 200k
+points 661
+kills 1000
+deaths 500
