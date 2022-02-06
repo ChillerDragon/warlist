@@ -34,6 +34,4 @@ Gonorrhea
 # multiple afk block attempts
 oyunkrallı
 
-# helps error
-click
 
