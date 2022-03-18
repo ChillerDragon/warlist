@@ -1,6 +1,13 @@
 power
+powa
+x7 powa
+x7|power
+x7 power
+x7|powa
+x7| powa
 (1)power
 [D] power
 power2
 mesh24
+***
 
