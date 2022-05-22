@@ -3,4 +3,6 @@ ZjaranaOwcaV2.
 ZjaranyLośV2
 DummyLośV2
 Owca
+DummyKitkuV3
+ZjaranyKitkuV2
 
