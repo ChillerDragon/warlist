@@ -52,10 +52,15 @@ function check_all_names() {
 	do
 		[[ -f "$namefile" ]] || continue
 
+		folder="${namefile%/*}"
 		name="${namefile%/*}"
 		name="${name##*/}"
 		echo -n "[*] checking '$name' .. "
-		if ! check_dupe_names "$namefile"
+		if [ ! -f "$folder"/reason.txt ]
+		then	
+			echo "WARN"
+			echo "  missing reason file in $folder"
+		elif ! check_dupe_names "$namefile"
 		then
 			echo "OK"
 		else
