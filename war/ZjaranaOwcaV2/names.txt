@@ -4,6 +4,8 @@ ZjaranyLośV2
 DummyLośV2
 Owca
 OwcaV2
+Owiec
+owieC
 [D] OwcaV3
 DummyKitkuV3
 ZjaranyKitkuV2
