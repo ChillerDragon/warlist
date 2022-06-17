@@ -7,3 +7,4 @@ not Nudelsaft c
 (1)Swarfey
 (1)Nudelsaft c:
 
+Discord-Bridge
