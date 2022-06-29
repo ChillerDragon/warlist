@@ -13,3 +13,5 @@ Skiller
 Skiller.*
 turbo-laptopafk
 turbofarm
+turbotrain._.
+turbotrainuwu
