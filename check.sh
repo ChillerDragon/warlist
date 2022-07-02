@@ -18,7 +18,7 @@ check_dupe_names() {
 		then
 			continue
 		fi
-		for searchfile in ./{war,war_,team,team_,traitor,traitor_}/*/names.txt
+		for searchfile in ./{war,war_,team,team_,traitor,traitor_,neutral}/*/names.txt
 		do
 			[[ -f "$searchfile" ]] || continue
 			[[ "$searchfile" == "$namefile" ]] && continue
