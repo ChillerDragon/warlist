@@ -4,3 +4,10 @@ x7 / keyboard
 keyboard
 [D] keyboard
 
+keyboard.
+x7|keyboard
+keyboard..
+[D] keyboard..
+[D] keyboardo
+keyboardos
+keyboardo
