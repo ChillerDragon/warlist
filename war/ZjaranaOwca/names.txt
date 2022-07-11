@@ -11,3 +11,5 @@ DummyKitkuV3
 ZjaranyKitkuV2
 Drop╠OwcaV2
 
+ZjaranaOwcaV2
+ZjaranaOwcaV3
