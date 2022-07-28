@@ -16,10 +16,6 @@ Gonorrhea
 # multiple afk block attempts
 oyunkrallı
 
-# afk spike (fake name tho)
-hiGo
-[D] hiGo
-
 GG
 GG [FAN]
 5 gegen Willy
@@ -35,3 +31,4 @@ beast
 help
 helper
 Saso
+
