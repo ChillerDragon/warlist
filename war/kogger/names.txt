@@ -8,3 +8,5 @@ kogger
 ⚡ KoGGeR ⚡
 [D] ⚡ KoGGeR
 ............
+c4|Kogger
+kogger.exe
