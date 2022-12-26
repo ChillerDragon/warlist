@@ -16,3 +16,6 @@ v4
 ĸσɠɠєR✘
 KoggerRace
 (1)KoggerRace
+CaptianSparrow
+IMP|KoggeR
+IMP|KoggeR.*
