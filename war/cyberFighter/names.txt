@@ -1,3 +1,4 @@
+cyber
 cyberfighter
 cyberFighter
 dummyFighter
