@@ -1,0 +1,11 @@
+[2022-07-10 15:17:41][chat]: *** 'KALEWASEA' changed name to 'Iterest'
+[2022-07-10 15:21:30][chat]: 35:1:Isegrin: Iterest: fakfo fkelewasea
+[2022-07-10 17:58:52][chat]: 22:1:Iterest: Nouaa: ım kalewaesaesa
+[2022-07-10 18:13:09][chat]: 22:1:Iterest: bob: pussy pussy pussy dabedabeyo
+[2022-07-10 18:13:33][game]: kill killer='22:Iterest' victim='16:ChillerDragon' weapon=0 special=0 killer_team:0 victim_team:0
+[2022-07-10 18:13:33][chat]: 22:1:Iterest: ezl2p
+[2022-07-10 18:14:06][game]: kill killer='22:Iterest' victim='16:ChillerDragon' weapon=0 special=0 killer_team:0 victim_team:0
+[2022-07-10 18:14:14][chat]: *** 'Iterest' changed name to 'SkyL3as'
+[2022-07-10 18:14:37][chat]: *** 'SkyL3as' changed name to 'kalesemawdlkamk'
+[2022-07-10 18:14:54][game]: kill killer='22:kalesemawdlkamk' victim='16:ChillerDragon' weapon=0 special=0 killer_team:0 victim_team:0
+[2022-07-10 18:15:01][chat]: *** 'kalesemawdlkamk' changed name to 'KALEWASEA'
