@@ -1,0 +1,7 @@
+# technicall two players
+# player 1
+1g
+2g
+# player 2
+Shake it
+Katus
