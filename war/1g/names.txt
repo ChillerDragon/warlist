@@ -5,3 +5,5 @@
 # player 2
 Shake it
 Katus
+KaTus
+katus
