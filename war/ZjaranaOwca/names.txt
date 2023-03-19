@@ -13,3 +13,5 @@ Drop╠OwcaV2
 
 ZjaranaOwcaV2
 ZjaranaOwcaV3
+OwcaV2
+OwcaV3
