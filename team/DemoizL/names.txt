@@ -18,3 +18,6 @@ Risoto
 ∩ Rosiтa
 Roseti
 
+# secret name dont leak xd
+pati
+
