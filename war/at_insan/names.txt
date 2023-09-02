@@ -1,4 +1,6 @@
 at insan
 [D] at insan
 at insan dummy
+lex
+[D] lex
 
