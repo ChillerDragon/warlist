@@ -21,3 +21,4 @@ Roseti
 # secret name dont leak xd
 pati
 
+Boonito

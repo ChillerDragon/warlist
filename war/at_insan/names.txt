@@ -4,3 +4,5 @@ at insan dummy
 lex
 [D] lex
 
+(1)at insan
+(1)[D] at insan
