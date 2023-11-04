@@ -6,3 +6,6 @@ lex
 
 (1)at insan
 (1)[D] at insan
+(2)[D] at insan
+(3)[D] at at insan
+(3)[D] at insan
