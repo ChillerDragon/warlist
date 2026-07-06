@@ -1,0 +1,1 @@
+votes play afk on platform for 3s, instantly goes afk on next plat for 3min (2025-09-27_14-55-12)
